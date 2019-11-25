@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SavingGold</string>
+    <string name="save">貯める</string>
+    <string name="yen">円</string>
+</resources>

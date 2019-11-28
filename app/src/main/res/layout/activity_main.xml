@@ -7,7 +7,7 @@
     tools:context="com.example.android.sample.myapplication.MainActivity">
 
     <EditText
-        android:id="@+id/calculateMoney"
+        android:id="@+id/calculateMoneyEditText"
         android:layout_width="wrap_content"
         android:layout_height="80dp"
         android:gravity="center"
